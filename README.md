@@ -13,6 +13,8 @@
 4. Modules and Packages
 
 
-"'''python
-print('hi')
-'''"
+'''java
+public static void main(String [] args){
+    System.out.println("Hi");
+}
+'''
