@@ -7,7 +7,8 @@
 2. Statements and Loops   
     - For01.py
         - Show basic python code segments using for loops  
-    - while loop : when you know the condition must be satisfied, you can use a while loop. 
+    - While01.py
+        - Show basic python code segments using while loops
 3. Functions and Generators
 4. Modules and Packages
 
