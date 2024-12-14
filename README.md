@@ -6,7 +6,7 @@
     for each in range(0,10,1):
         print(each)
     ```
-    - while loop
+    - while loop : when you know the condition must be satisfied, you can use a while loop. 
     ```python
     while(True):
         print(x)
