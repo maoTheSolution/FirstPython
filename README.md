@@ -9,8 +9,7 @@
     - while loop : when you know the condition must be satisfied, you can use a while loop. 
     ```python
     while(True):
-        print(x)
-        x = x - 1
+        print('print this endlessly')
     ```
 3. Functions and Generators
 4. Modules and Packages
