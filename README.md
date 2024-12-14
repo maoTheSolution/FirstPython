@@ -1,5 +1,8 @@
 # FirstPython
 1. Types and Calculations
+    - Sample01.py in Types Directory
+        - Show all types in Python
+    - Sample02.py in Type Directory
 2. Statements and Loops
     - for loop : when you have a specific number to repeat the same process, you can use a for loop.   
     ```python
