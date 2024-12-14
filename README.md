@@ -3,9 +3,11 @@
 2. Statements and Loops
     - for loop : when you have a specific number to repeat the same process, you can use a for loop.   
     <pre>
-    <code>python
+    <code>
+    '''python
     for each in range(0,10,1):
         print(each)
+    '''
     </code>
     </pre>
     - while loop
