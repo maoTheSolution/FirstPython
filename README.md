@@ -51,6 +51,9 @@
             11. indexing
             12. reverse
             13. strip
+    - File01.py
+        - File functions
+            1. open to wirte and read
     - Cal01.py
         - Basic calculations
             1. Addition
