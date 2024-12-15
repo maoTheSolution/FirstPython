@@ -30,6 +30,27 @@
             6. add a new element
             7. pop
             8. popitem
+    - Set01.py
+        - Set functions
+            1. union
+            2. difference
+            3. intersection
+            4. pop
+    - String01.py
+        - String functions
+            1. join
+            2. capitalize
+            3. center
+            4. count
+            5. endswith
+            6. isalpha
+            7. isdigit
+            8. isupper
+            9. lower
+            10. slice
+            11. indexing
+            12. reverse
+            13. strip
     - Cal01.py
         - Basic calculations
             1. Addition
