@@ -1,14 +1,18 @@
 # FirstPython
 1. Types and Calculations
     - Sample01.py
-        - Show all types in Python   
+        - Types in Python   
     - Sample02.py
-        - How to check the type of the given variable   
+        - How to check the type of a given variable
+    - Cal01.py
+        - Basic calculations including +, -, *, and /.
+    - Cal02.py
+        - Modular arithmetic, Power
 2. Statements and Loops   
     - For01.py
-        - Show basic python code segments using for loops  
+        - Basic python code segments using for loops  
     - While01.py
-        - Show basic python code segments using while loops
+        - Basic python code segments using while loops
 3. Functions and Generators
 4. Modules and Packages
 
