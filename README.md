@@ -9,6 +9,13 @@
             1. List
             2. Tuple
             3. Set
+    - List01.py
+        - List functions
+            1. append()
+            2. insert()
+            3. extend()
+            4. pop()
+            5. remove()
     - Cal01.py
         - Basic calculations
             1. Addition
