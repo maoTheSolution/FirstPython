@@ -11,11 +11,25 @@
             3. Set
     - List01.py
         - List functions
-            1. append()
-            2. insert()
-            3. extend()
-            4. pop()
-            5. remove()
+            1. append
+            2. insert
+            3. extend
+            4. pop
+            5. remove
+    - Tuple01.py
+        - Tuple functions
+            1. count
+            2. index
+    - Dinctionary01.py
+        - Dictionary functions
+            1. keys
+            2. values
+            3. itmes
+            4. update
+            5. get
+            6. add a new element
+            7. pop
+            8. popitem
     - Cal01.py
         - Basic calculations
             1. Addition
