@@ -68,6 +68,15 @@
         - Basic python code segments using for loops  
     - While01.py
         - Basic python code segments using while loops
+    - Pass_Continue.py
+        -  
+    - While_else.py
+        - 
+    - If_elif_else.py
+        - 
+    - Map01.py
+        - 
+    - Zip01.py
 3. Functions and Generators
 4. Modules and Packages
 
