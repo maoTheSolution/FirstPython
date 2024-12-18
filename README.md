@@ -69,7 +69,7 @@
     - While01.py
         - Basic python code segments using while loops
     - Pass_Continue.py
-        -  
+        - 
     - While_else.py
         - 
     - If_elif_else.py
